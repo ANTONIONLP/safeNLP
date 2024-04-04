@@ -19,7 +19,7 @@ Structure
 Details
 ------------
 
-* Pre-processing: by following the best methodology and results from [our paper](https://arxiv.org/abs/2403.10144), we use [ANTONIO](https://easychair.org/publications/paper/9ZGS) to pre-process the data.
+* Pre-processing: by following the best methodology and results from [our paper](https://arxiv.org/abs/2403.10144), we use [ANTONIO](https://easychair.org/publications/paper/9ZGS) to pre-process the data. The pre-processing comprehends embedding, reducing dimensionality and rotating the data.
 
     <center>
     <table style="width:100%">
